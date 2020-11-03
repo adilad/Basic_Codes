@@ -1,6 +1,7 @@
 s=[110,7,8,9,1,56,13,14,324]
 
 def quick_sort(a,low,high):
+    
     i=low-1
     pivot=a[high]
     
